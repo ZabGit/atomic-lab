@@ -1,3 +1,4 @@
+# See requirements.lock.txt for exact versions
 requests
 flask
 pytest
